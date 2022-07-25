@@ -1,0 +1,27 @@
+body {
+    background-color: #ffccff;
+}
+
+.subheading {
+    color: #303;
+    font-size: 30px;
+}
+
+.button {
+    background-color: #ffe6ff;
+}
+
+.heading {
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.subheading,
+.heading {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.prep {
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
